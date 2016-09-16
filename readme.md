@@ -12,7 +12,7 @@ $ npm install --save year-of-ox
 
 ```js
 
-const yearOfRat = require('year-of-ox');
+const yearOfOx = require('year-of-ox');
 
 yearOfOx(1985);
 // true
